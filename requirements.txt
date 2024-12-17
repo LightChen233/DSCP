@@ -1,0 +1,7 @@
+fire
+openai
+prettytable
+numpy
+sklearn
+google-generativeai
+tqdm
