@@ -1,28 +1,11 @@
 <p align="center">
 <h1 align="center"> Divide-Solve-Combine: An Interpretable and Accurate Prompting Framework for Zero-shot Multi-Intent Detection</h1>
 </p>
-<p align="center">
-  	<a href="https://img.shields.io/badge/version-v0.0.1-blue">
-      <img alt="version" src="https://img.shields.io/badge/version-v0.0.1-blue?color=FF8000?color=009922" />
-    </a>
-    <a >
-       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-blue" />
-  	</a>
-   	<a href="https://github.com/LightChen233/DSCP/stargazers">
-       <img alt="stars" src="https://img.shields.io/github/stars/LightChen233/DSCP" />
-  	</a>
-  	<a href="https://github.com/LightChen233/DSCP/network/members">
-       <img alt="FORK" src="https://img.shields.io/github/forks/LightChen233/DSCP?color=FF8000" />
-  	</a>
-    <a href="https://github.com/LightChen233/DSCP/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/LightChen233/DSCP?color=0088ff"/>
-    </a>
-    <br />
-</p>
+
 
 <p align="center">
   	<b>
-    [<a href="https://xxx">Paper</a>] | [<a href="https://github.com/LightChen233/DSCP">Code</a>] 
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/34688">Paper</a>] | [<a href="https://github.com/LightChen233/DSCP">Code</a>] 
     </b>
     <br />
 </p>
@@ -125,5 +108,5 @@ If you find this project useful for your research, please consider citing the fo
 
 ## 📲 Contact
 
-Please create Github issues here or email [Qiguang Chen](mailto:charleschen2333@gmail.com) if you have any questions or suggestions. 
+Please create Github issues here or email [Libo Qin](mailto:lbqin@csu.edu.cn) or [Qiguang Chen](mailto:charleschen2333@gmail.com) if you have any questions or suggestions. 
 

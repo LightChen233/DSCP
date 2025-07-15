@@ -85,7 +85,6 @@ def run(
     gold_intent_res = []
     pred_intent_res = []
     for i, req in enumerate(request_data):
-        
         # Extract intents
         inp = origin_data[int(req["index"])]
         if int(req["index"]) not in record_list:

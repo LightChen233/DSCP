@@ -140,7 +140,6 @@ async def producer(queue, dataset, save_path, bar, create_prompt):
             bar.update(1)
             continue
         prompt = create_prompt(data)
-        # DSP
         print("Loaded\t\t#", i)
         data.update({"index": str(i), "text": prompt})
         await queue.put(data)
